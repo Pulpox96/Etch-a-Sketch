@@ -1,0 +1,17 @@
+body{
+
+    height: 100%;
+    width: 100%;
+
+}
+
+#clear{
+    border-radius: 2px;
+}
+
+#divContainer{
+
+    border: 1px solid black;
+
+}
+
